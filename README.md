@@ -5,7 +5,7 @@ Like you see i'm learning english i can understand but not everythink for now , 
 
 - 👀 I’m interested in development languages i really like Java, its hard to understand but i love how that works 
 - 🌱 I’m currently learning Java /30%, javaScript /35%, PHP /i only know why its use, Html /85%, css /75%, i do some json /?.
-my focus is on Java/html/css beacause i can't learing everythink.  
+My focus is on Java/html/css beacause i can't learing everythink.  
 - 💞️ I’m looking to collaborate on a litle project Java
 - 📫 How to reach me on this adresse loic82@hotmail.fr.
 
